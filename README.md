@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodney</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 
-- 🔭 I’m currently working on **Frontend peojects using Angular & Javascript**
+- 🔭 I’m currently working on **Frontend projects using Angular & Javascript**
 
 - 🌱 I’m currently learning **Angular & JSON**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/leviisq graphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leviisq graphics" height="30" width="40" /></a>
+<a href="https://twitter.com/Ogobetualam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leviisq graphics" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rodney tebogo malau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodney tebogo malau" height="30" width="40" /></a>
 <a href="https://fb.com/levisq_graphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="levisq_graphics" height="30" width="40" /></a>
 <a href="https://instagram.com/ogobetualam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ogobetualam" height="30" width="40" /></a>
